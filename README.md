@@ -84,7 +84,7 @@ This is my personal book project - I'm the sole author and prefer to maintain fu
 
 Join our Discord community to discuss DDD methodology, share experiences, and get help with your document-driven projects:
 
-**[Join the DDD Discord](https://discord.gg/eVGgHAcMGY)**
+**[Join the DDD Discord](https://discord.gg/YFB4Fy6bh8)**
 
 ## AI-First Technical Writing Example
 
